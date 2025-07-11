@@ -77,8 +77,7 @@ Next.js + Tailwind + RapidAPI: Explore brands, see the details, all in one slick
 <div align="left">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=johnscodinglab&show_icons=true&locale=en&layout=compact" alt="johnscodinglab" /></p>
 <br/>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=johnscodinglab&show_icons=true&locale=en" alt="johnscodinglab" /></p>
-<br/>
+
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=johnscodinglab&" alt="johnscodinglab" /></p>
 </div>
 
