@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🛠️ **3+ years** wrangling the web (and loving every minute)
+- 🛠️ **4+ years** wrangling the web (and loving every minute)
 - 📚 **National Diploma** in Computer Science (Federal Polytechnic Bauchi)
 - 🎓 **CS50 Certified** (Python & Web – *Shoutout to Harvard!*)
 - 💡 Addicted to learning, building, and open-sourcing my brain
@@ -70,18 +70,6 @@ Next.js + Tailwind + RapidAPI: Explore brands, see the details, all in one slick
 - 🏙️ Lagos, Nigeria
 - ☎️ +2348137069337
 
---
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=johnscodinglab&show_icons=true&locale=en&layout=compact" alt="johnscodinglab" /></p>
-<br/>
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=johnscodinglab&" alt="johnscodinglab" /></p>
-</div>
-
---
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220"/>
