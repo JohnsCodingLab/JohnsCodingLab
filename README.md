@@ -138,6 +138,6 @@ Developed and maintained modern web interfaces using React within agile team env
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=johnscodinglab&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnscodinglab&layout=compact)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnscodinglab)
