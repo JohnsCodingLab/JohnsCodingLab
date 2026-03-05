@@ -133,3 +133,11 @@ Developed and maintained modern web interfaces using React within agile team env
   <br />
   <strong>Let’s build something epic. PRs, collabs, ideas & coffee always welcome ☕🚀</strong>
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnscodinglab&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=johnscodinglab&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
